@@ -29,4 +29,5 @@
 |1주차|01.22|[AxB](https://www.acmicpc.net/problem/10998)
 |1주차|01.22|[A/B](https://www.acmicpc.net/problem/1008)
 |1주차|01.22|[사칙연산](https://www.acmicpc.net/problem/10869)
+|1주차|01.22|[??!](https://www.acmicpc.net/problem/10926)
 

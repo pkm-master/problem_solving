@@ -16,6 +16,7 @@
 |주차|날짜|문제 링크|
 |----|------|---|
 |1주차|01.22|[막대기](https://www.acmicpc.net/problem/1094)
+|1주차|01.24|[분수찾기](https://www.acmicpc.net/problem/1193)
 
 ## 진행상황(Java)
 
@@ -36,4 +37,9 @@
 |1주차|01.23|[꼬마 정민](https://www.acmicpc.net/problem/11382)
 |1주차|01.23|[고양이](https://www.acmicpc.net/problem/10171)
 |1주차|01.23|[개](https://www.acmicpc.net/problem/10172)
+|1주차|01.24|[개수 세기](https://www.acmicpc.net/problem/10807)
+|1주차|01.24|[코딩은 체육과목 입니다](https://www.acmicpc.net/problem/25314)
+|1주차|01.24|[A+B - 4](https://www.acmicpc.net/problem/10951)
+|1주차|01.24|[A+B - 8](https://www.acmicpc.net/problem/11022)
+|1주차|01.24|[주사위 세개](https://www.acmicpc.net/problem/2480)
 

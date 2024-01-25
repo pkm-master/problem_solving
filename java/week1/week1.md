@@ -21,3 +21,4 @@
 |1주차|01.24|[A+B - 4](https://www.acmicpc.net/problem/10951)
 |1주차|01.24|[A+B - 8](https://www.acmicpc.net/problem/11022)
 |1주차|01.24|[주사위 세개](https://www.acmicpc.net/problem/2480)
+|1주차|01.25|[X보다 작은 수](https://www.acmicpc.net/problem/10871)

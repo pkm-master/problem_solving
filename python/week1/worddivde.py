@@ -1,3 +1,5 @@
+#https://www.acmicpc.net/problem/1251
+
 word = input()
 strs = []
 

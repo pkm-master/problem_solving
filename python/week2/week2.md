@@ -5,5 +5,5 @@
 
 |날짜|문제 링크|
 |------|---|
-|01.22|[막대기](https://www.acmicpc.net/problem/1094)
-|01.24|[분수찾기](https://www.acmicpc.net/problem/1193)
+|01.29|[피보나치 함수(다항식을 통한 풀이)](https://www.acmicpc.net/problem/1003)
+|01.29|[피보나치 함수(dp를 통한 풀이)](https://www.acmicpc.net/problem/1003)

@@ -16,6 +16,7 @@
 |주차|날짜|Python 문제 목록|Java 문제 목록|
 |----|------|---|---|
 |1주차|01.22 - 01.25|[1주차 Python 문제 목록](https://github.com/pkm-master/problem_solving/tree/master/python/week1/week1.md) | [1주차 Java 문제 목록](https://github.com/pkm-master/problem_solving/tree/master/java/week1/week1.md)
+|2주차|01.29 - 02.02|[2주차 Python 문제 목록](https://github.com/pkm-master/problem_solving/tree/master/python/week2/week2.md) | [2주차 Java 문제 목록](https://github.com/pkm-master/problem_solving/tree/master/java/week2/week2.md)
 
 
 

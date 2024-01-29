@@ -4,4 +4,4 @@
 
 |날짜|문제 링크|
 |------|---|
-|01.22|[A+B](https://www.acmicpc.net/problem/1000)
+|01.29|[최댓값](https://www.acmicpc.net/problem/2562)

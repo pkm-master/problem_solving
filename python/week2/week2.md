@@ -10,3 +10,6 @@
 |01.30|[팔](https://www.acmicpc.net/problem/1105)
 |01.31|[풍선팡2](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AYYlGU56XOkDFARc)
 |02.01|[달팽이 숫자](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PobmqAPoDFAUq)
+|02.02|[기차 사이의 파리](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWajaTmaZw4DFAWM)
+|02.02|[원 안의 점](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AYcllbDqUVgDFASR)
+

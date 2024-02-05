@@ -7,11 +7,7 @@
 *  ```Java```의 경우 기본 문법부터 공부하기 시작합니다. 
 
 
-
 ## 진행상황
-
-
-
 
 |주차|날짜|Python 문제 목록|Java 문제 목록|
 |----|------|---|---|
@@ -20,6 +16,29 @@
 |3주차|02.05 - 02.09|[3주차 Python 문제 목록](https://github.com/pkm-master/problem_solving/tree/master/python/week3/week3.md) | [3주차 Java 문제 목록](https://github.com/pkm-master/problem_solving/tree/master/java/week3/week3.md)
 
 
+## 디렉토리 구조
 
+```bash
+PROBLEM_SOLVING
+├─java
+│  ├─week1
+│  │  ├─src
+│  │  │  └─{probelm}.java
+│  │  └─week1.md 
+│  ├─ ...
+│  │  
+│  └─week{n}
+│      ├─src
+│      │  └─{probelm}.java
+│      └─week{n}.md
+└─python
+    ├─week1
+    │  ├─{problem}.py
+    │  └─week1.md
+    ├─ ...
+    └─week{n}
+       ├─{problem}.py
+       └─week{n}.md
+```
 
 

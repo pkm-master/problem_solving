@@ -5,3 +5,5 @@
 |날짜|문제 링크|
 |------|---|
 |02.05|[문자와 문자열](https://www.acmicpc.net/problem/27866)
+|02.05|[문자열](https://www.acmicpc.net/problem/9086)
+|02.05|[숫자의 합](https://www.acmicpc.net/problem/11720)

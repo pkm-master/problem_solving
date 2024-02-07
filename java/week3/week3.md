@@ -7,3 +7,5 @@
 |02.05|[문자와 문자열](https://www.acmicpc.net/problem/27866)
 |02.05|[문자열](https://www.acmicpc.net/problem/9086)
 |02.05|[숫자의 합](https://www.acmicpc.net/problem/11720)
+|02.07|[알파벳 찾기](https://www.acmicpc.net/problem/10809)
+|02.07|[문자열 반복](https://www.acmicpc.net/problem/2675)

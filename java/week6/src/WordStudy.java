@@ -1,3 +1,4 @@
+// https://www.acmicpc.net/problem/1157
 import java.io.*;
 
 public class WordStudy {

@@ -1,4 +1,4 @@
-# Algorithm Study
+# Problem Solving for Algorithm Study
 
 ## 개요
 
@@ -16,6 +16,7 @@
 |3주차|02.05 - 02.09|[3주차 Python 문제 목록](https://github.com/pkm-master/problem_solving/tree/master/python/week3/week3.md) | [3주차 Java 문제 목록](https://github.com/pkm-master/problem_solving/tree/master/java/week3/week3.md)
 |4주차|02.12 - 02.16|[4주차 Python 문제 목록](https://github.com/pkm-master/problem_solving/tree/master/python/week4/week4.md) | [4주차 Java 문제 목록](https://github.com/pkm-master/problem_solving/tree/master/java/week4/week4.md)
 |5주차|02.19 - 02.23|[5주차 Python 문제 목록](https://github.com/pkm-master/problem_solving/tree/master/python/week5/week5.md) | [5주차 Java 문제 목록](https://github.com/pkm-master/problem_solving/tree/master/java/week5/week5.md)
+|6주차|02.26 - 03.01|[6주차 Python 문제 목록](https://github.com/pkm-master/problem_solving/tree/master/python/week6/week6.md) | [6주차 Java 문제 목록](https://github.com/pkm-master/problem_solving/tree/master/java/week6/week6.md)
 
 
 ## 디렉토리 구조

@@ -1,3 +1,5 @@
+# https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWngfZVa9XwDFAQU
+
 from collections import deque
 
 T = int(input())

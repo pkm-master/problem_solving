@@ -11,3 +11,6 @@
 |03.19|[벌꿀 채취](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V4A46AdIDFAWu)|
 |03.19|[동철이의 일 분배](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LuHfqDz8DFAXc)|
 |03.20|[원자 소멸 시뮬레이션](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRFInKex8DFAUo)|
+|03.22|[파이프 옮기기 1](https://www.acmicpc.net/problem/17070)|
+|03.22|[도둑질](https://school.programmers.co.kr/learn/courses/30/lessons/42897)|
+|03.22|[순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)|

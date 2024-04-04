@@ -5,5 +5,6 @@
 |날짜|문제 링크|
 |------|---|
 |04.03|[숫자 카드](https://www.acmicpc.net/problem/10815)|
+|04.04|[문자열 집합](https://www.acmicpc.net/problem/14425)|
 
 

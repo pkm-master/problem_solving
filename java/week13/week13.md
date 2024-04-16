@@ -9,5 +9,6 @@
 |04.16|[숫자 카드 2](https://www.acmicpc.net/problem/10816)|
 |04.16|[듣보잡](https://www.acmicpc.net/problem/1764)|
 |04.16|[대칭 차집합](https://www.acmicpc.net/problem/1269)|
+|04.16|[서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478)|
 
 

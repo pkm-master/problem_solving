@@ -21,6 +21,8 @@
 |9주차|03.18 - 03.22|[9주차 Python 문제 목록](https://github.com/pkm-master/problem_solving/tree/master/python/week9/week9.md) | [9주차 Java 문제 목록](https://github.com/pkm-master/problem_solving/tree/master/java/week9/week9.md)
 |10주차|03.25 - 03.29|[10주차 Python 문제 목록](https://github.com/pkm-master/problem_solving/tree/master/python/week10/week10.md) | [10주차 Java 문제 목록](https://github.com/pkm-master/problem_solving/tree/master/java/week10/week10.md)
 |11주차|04.01 - 04.05|[11주차 Python 문제 목록](https://github.com/pkm-master/problem_solving/tree/master/python/week11/week11.md) | [11주차 Java 문제 목록](https://github.com/pkm-master/problem_solving/tree/master/java/week11/week11.md)
+|12주차|04.08 - 04.12|[12주차 Python 문제 목록](https://github.com/pkm-master/problem_solving/tree/master/python/week12/week12.md) | [12주차 Java 문제 목록](https://github.com/pkm-master/problem_solving/tree/master/java/week12/week12.md)
+|13주차|04.15 - 04.19|[13주차 Python 문제 목록](https://github.com/pkm-master/problem_solving/tree/master/python/week13/week13.md) | [13주차 Java 문제 목록](https://github.com/pkm-master/problem_solving/tree/master/java/week13/week13.md)
 
 
 ## 디렉토리 구조

@@ -4,3 +4,10 @@
 
 |날짜|문제 링크|
 |------|---|
+|04.16|[회사에 있는 사람](https://www.acmicpc.net/problem/7785)|
+|04.16|[나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)|
+|04.16|[숫자 카드 2](https://www.acmicpc.net/problem/10816)|
+|04.16|[듣보잡](https://www.acmicpc.net/problem/1764)|
+|04.16|[대칭 차집합](https://www.acmicpc.net/problem/1269)|
+
+
